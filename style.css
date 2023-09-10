@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+    position:sticky
+}
+
+body{
+    width: 100vw;
+    height: 100vw;
+    background-image: url('img/WhatsApp\ Image\ 2023-09-10\ at\ 11.32.14.jpeg');
+
+    background-position: center ;
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+.main{
+width: 400px;
+padding: 10px;
+margin: auto;
+
+}
+
+.btn{
+    background-color: black;
+    color: #ffffff;
+   padding: 10px 10px;
+   border: none;
+   border-radius: 10px;
+   font-size: 15px;
+   cursor: pointer;
+   margin: 70px;
+}
+
+.button{background-color: black;
+    color: #ffffff;
+   padding: 10px 10px;
+   border: none;
+   border-radius: 10px;
+   font-size: 15px;
+   cursor: pointer;
+   margin: 70px;
+   
+}
